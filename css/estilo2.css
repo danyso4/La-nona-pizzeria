@@ -1,0 +1,109 @@
+#background{
+    background-color: rgb(240, 218, 194) !important;
+}
+
+.pizza{
+    width: 2px;
+    display: inline;
+}
+
+#pizza{
+    width: 100%;
+    height: 300px;
+}
+
+#box1{
+    margin-left: 8%;
+    width: 80px;
+}
+
+#carouselExampleDark{
+    width: 1600px !important;
+    padding-left: 10% !important;
+    padding-right: 10% !important;
+}
+
+.carousel-inner{
+    top: auto;
+    width: 80%;
+    height: 500px !important;
+}
+
+#cardcolor{
+    background-color: rgb(55, 116, 58) !important; 
+    color: white !important;
+}
+
+#carouselconf{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.card-body{
+    text-align: center !important;
+}
+
+.card-body .card-text{
+    text-align: justify !important;
+}
+
+.text-muted{
+    color: white !important;
+}
+
+.menu{
+    margin-top: 50px;
+    margin-bottom: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+    background-color:rgb(48, 47, 47);
+    color:beige;
+}
+
+.extra{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+    background-color:rgb(48, 47, 47);
+    color:beige;
+}
+
+.carousel-control-prev .carousel-control-next{
+    margin-left: 100px !important;
+}
+
+#row{
+    margin-top: 40px;
+}
+
+#cardcolor2{
+    background-color: rgb(61, 153, 66) !important; 
+    color: white !important;
+}
+
+.footer1{
+    margin-top: 50px;
+    margin-left: 12.5%;
+    margin-bottom: 50px;
+    padding: 20px;
+    background-color: beige;
+    font-weight: bold;
+    color: black;
+    width: 75%;
+    align-items: center;
+    text-align: center;
+}
+
+.foot{
+    width: 95%;
+    margin-left: 2.5%;
+    margin-bottom: 25px;
+}
+
+p{
+    margin-right: 5%;
+    text-align: end;
+}
